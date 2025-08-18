@@ -10,19 +10,31 @@
 
 ## 🧑‍💼 About Me
 
-I am a 26-year-old graduate with diverse multi-sector experience. Currently employed at Warsaw Waterworks as a **Junior Specialist of GIS Systems Managements** focusing on GIS analysis, data science/processing and various Python scripting. I am actively involved in web development and freelance projects. Open to relocation and remote work.
+I am a 26-year-old graduate with diverse multi-sector experience. Currently employed at Warsaw Waterworks as a ** Junior GIS System Maintenance Specialist** focusing on GIS analysis, data science/processing and various Python scripting. I am actively involved in web development and freelance projects. Open to relocation and remote work.
 
 ---
 
 ## 💼 Professional Experience
 
-### Junior Specialist of GIS Systems Managements – GIS and Development Analysis  
+###  Junior GIS System Maintenance Specialist – GIS and Development Analysis  
 **Warsaw Waterworks, Poland**  
 _Nov 2024 – Present_  
-- Python scripting for process optimization (geopandas, pandas)  
+- Python scripting for process optimization (geopandas, pandas, numpy, dask etc.)  
 - ArcGIS PRO and QGIS spatial analysis  
-- Spatial data management and geovisualization  
-
+- Spatial data management and geovisualization
+- Database management, SQL, OracleDB
+- Administration of MB_GIS_UTILITY internal system
+  
+###  Freelance Web Developer
+**Freelance, Remote**  
+_Apr 2024 – Present_   
+- Hugo, Astro SSG
+- Usage of HTML, CSS, JS, PHP
+- Web app development/deployment (Cloudflare, full configuration, management of exisitng sites and full deployment of new ones)
+- WordPress administration, management
+- Wrodpress Custom Automation Plugins deployment
+- SEO | Fixing bugs | code review
+  
 ### Performance & Continuous Improvement Engineering (ERASMUS+)  
 **BYON Solutions, Portugal**  
 _Oct 2023 – Apr 2024_  
@@ -97,4 +109,5 @@ Maritime University of Szczecin, Poland — _Sep 2018 – Mar 2022_
 I consent to the processing of personal data for the purpose of the current recruitment process in accordance with the GDPR (EU Regulation 2016/679).
 
 ---
+
 
